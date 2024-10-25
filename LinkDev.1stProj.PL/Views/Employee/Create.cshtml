@@ -1,0 +1,93 @@
+﻿@model CreatedEmployeeeDto
+
+@{
+    ViewData["Title"] = "Create"; // here throw Exception
+    var deptlist = ViewData["depts"] as IEnumerable<DepartmentToReturnDto> ?? new List<DepartmentToReturnDto>();
+}
+
+<h1>Create</h1>
+
+
+<h2>Create New Employee</h2>
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="col-form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Age" class="col-form-label"></label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Adress" class="col-form-label"></label>
+        <input asp-for="Adress" class="form-control" />
+        <span asp-validation-for="Adress" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="salary" class="col-form-label"></label>
+        <input asp-for="salary" class="form-control" />
+        <span asp-validation-for="salary" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email" class="col-form-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PhoneNumber" class="col-form-label"></label>
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="DepartmentID">Department Name:</label>
+        @if (deptlist.Any())
+        {
+            <select asp-for="DepartmentID" class="form-control" asp-items="@(new SelectList(deptlist, "ID", "Name"))">
+                <option value="">-- Select Department --</option>
+            </select>
+        }
+        else
+        {
+            <p>No departments found.</p>
+        }
+    </div>
+
+    <!-- Employee Type Radio Buttons -->
+    <div class="form-group">
+        <label for="EmployeeType">Employee Type:</label>
+        @foreach (EmployeeType E in Enum.GetValues(typeof(EmployeeType)))
+        {
+            <div>
+                <input type="radio" id="EmployeeType-@E" name="EmployeeType" value="@E" />
+                <label for="EmployeeType-@E">@E</label>
+            </div>
+        }
+    </div>
+
+    <!-- Gender Radio Buttons -->
+    <div class="form-group">
+        <label for="Gender">Gender:</label>
+        @foreach (Gender G in Enum.GetValues(typeof(Gender)))
+        {
+            <div>
+                <input type="radio" id="Gender-@G" name="Gender" value="@G" />
+                <label for="Gender-@G">@G</label>
+            </div>
+        }
+    </div>
+
+    <div class="form-group">
+        <label for="ProfileImage">Profile Image:</label>
+        <input type="file" name="image" class="form-control" accept=".png, .jpg, .jpeg" />
+    </div>
+
+    <br />
+    <br />
+    <input type="submit" value="Create" class="btn btn-primary" />
+    <a asp-controller="Employee" asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
+
+
+

@@ -1,0 +1,42 @@
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.deps.json
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.dll
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.pdb
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.AssemblyInfoInputs.cache
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.AssemblyInfo.cs
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.csproj.CoreCompileInputs.cache
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.dll
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\refint\LinkDev.1stproj.DAL.dll
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.pdb
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\ref\LinkDev.1stproj.DAL.dll
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.runtimeconfig.json
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.csproj.AssemblyReference.cache
+D:\.net\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.genruntimeconfig.cache
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.deps.json
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.runtimeconfig.json
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.dll
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.csproj.AssemblyReference.cache
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.AssemblyInfoInputs.cache
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.AssemblyInfo.cs
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.csproj.CoreCompileInputs.cache
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.dll
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\refint\LinkDev.1stproj.DAL.dll
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.genruntimeconfig.cache
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stproj.DAL\obj\Debug\net8.0\ref\LinkDev.1stproj.DAL.dll
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.deps.json
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.runtimeconfig.json
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.dll
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\bin\Debug\net8.0\LinkDev.1stproj.DAL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.csproj.AssemblyReference.cache
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.AssemblyInfoInputs.cache
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.AssemblyInfo.cs
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.csproj.CoreCompileInputs.cache
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.dll
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\refint\LinkDev.1stproj.DAL.dll
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\LinkDev.1stproj.DAL.genruntimeconfig.cache
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stproj.DAL\obj\Debug\net8.0\ref\LinkDev.1stproj.DAL.dll

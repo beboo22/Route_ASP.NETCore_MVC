@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "ALL";
+}
+
+<h1>ALL</h1>
+
+@model IEnumerable<EmployeeToReturnDto>
+
+<h2>Employee List</h2>
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Address</th>
+            <th>Salary</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Employee Type</th>
+            <th>Gender</th>
+            <th>Department ID</th>
+            <th>Department Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.ID</td>
+                <td>@employee.Name</td>
+                <td>@employee.Age</td>
+                <td>@employee.Adress</td>
+                <td>@employee.salary</td>
+                <td>@employee.Email</td>
+                <td>@employee.PhoneNumber</td>
+                <td>@employee.EmployeeType</td>
+                <td>@employee.Gender</td>
+                <td>@employee.DepartmentID</td>
+                <td>@employee.DepartmentName</td>
+                <td>
+                    <a href="/Employee/Details/@employee.ID">Details</a> |
+                    <a href="/Employee/Edit/@employee.ID">Edit</a> |
+                    <a href="/Employee/Delete/@employee.ID">Delete</a>|
+                    <a href="/Employee/Details">Details</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

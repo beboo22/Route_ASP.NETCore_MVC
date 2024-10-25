@@ -1,0 +1,45 @@
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stProj.BLL.deps.json
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stProj.BLL.dll
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stProj.BLL.pdb
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stproj.DAL.dll
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stproj.DAL.pdb
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.csproj.AssemblyReference.cache
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.AssemblyInfoInputs.cache
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.AssemblyInfo.cs
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.csproj.CoreCompileInputs.cache
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev..34DC21D5.Up2Date
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.dll
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\refint\LinkDev.1stProj.BLL.dll
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.pdb
+D:\.net\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\ref\LinkDev.1stProj.BLL.dll
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stProj.BLL.deps.json
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stProj.BLL.dll
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stProj.BLL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stproj.DAL.dll
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stproj.DAL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.csproj.AssemblyReference.cache
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.AssemblyInfoInputs.cache
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.AssemblyInfo.cs
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.csproj.CoreCompileInputs.cache
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev..34DC21D5.Up2Date
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.dll
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\refint\LinkDev.1stProj.BLL.dll
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\session03\session03\LinkDev.1stProj.BLL\obj\Debug\net8.0\ref\LinkDev.1stProj.BLL.dll
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stProj.BLL.deps.json
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stProj.BLL.dll
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stProj.BLL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stproj.DAL.dll
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\bin\Debug\net8.0\LinkDev.1stproj.DAL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.csproj.AssemblyReference.cache
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.AssemblyInfoInputs.cache
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.AssemblyInfo.cs
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.csproj.CoreCompileInputs.cache
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev..34DC21D5.Up2Date
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.dll
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\refint\LinkDev.1stProj.BLL.dll
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\LinkDev.1stProj.BLL.pdb
+D:\.net\.net\Ahmed Nassr\MVC\Project\LinkDev.1stProj.BLL\obj\Debug\net8.0\ref\LinkDev.1stProj.BLL.dll

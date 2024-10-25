@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+@model LinkDev._1stProj.BLL.Entity.DeptEntity.UpdateDepartmentDto
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="code" class="col-form-label"></label>
+        <input asp-for="code" class="form-control" />
+        <span asp-validation-for="code" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Name" class="col-form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="col-form-label"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CreationDate" class="col-form-label"></label>
+        <input asp-for="CreationDate" class="form-control" type="date" />
+    </div>
+    <br></br>
+    <input type="submit" value="Save" class="btn btn-primary" />
+    <a asp-controller="Department" asp-action="Index" class="btn btn-light">Back To List</a>
+</form>

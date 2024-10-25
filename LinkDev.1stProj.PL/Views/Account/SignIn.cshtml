@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "SignIn";
+
+	Layout = "~/views/Shared/_Authentication.cshtml";
+}
+
+
+@model SignInview
+
+
+<div class="main-agileinfo">
+	<div class="agileits-top">
+		<form asp-action="SignIn" method="post">
+			<input class="text email" asp-for="Email" placeholder="Email" required="">
+			<input class="text" asp-for="Password" placeholder="Password" required="">
+			<div class="wthree-text">
+				<label class="anim">
+					<input type="checkbox" class="checkbox" asp-for="RememberMe" required="">
+					<span>Remember Me</span>
+				</label>
+				<div class="clear"> </div>
+			</div>
+			<input type="submit" value="SIGNIN">
+		</form>
+		<p>Don't have an Account? <a href="Account/SignUp"> SignUp Now!</a></p>
+	</div>
+</div>

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<DepartmentToReturnDto>
+
+@{
+    ViewData["Title"] = "ALL";
+}
+
+
+<h1>Departments List</h1>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Code</th>
+            <th>Description</th>
+            <th>Creation Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.ID</td>
+                <td>@department.Name</td>
+                <td>@department.code</td>
+                <td>@department.Description</td>
+                <td>@department.CreationDate.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a href="/Department/Details/@department.ID">Details</a> |
+                    <a href="/Department/Edit/@department.ID">Edit</a> |
+                    <a href="/Department/Delete/@department.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Department/Create">Create New Department</a>

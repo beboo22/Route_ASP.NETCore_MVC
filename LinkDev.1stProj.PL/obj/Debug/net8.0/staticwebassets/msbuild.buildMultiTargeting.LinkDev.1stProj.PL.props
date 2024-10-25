@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LinkDev.1stProj.PL.props" />
+</Project>

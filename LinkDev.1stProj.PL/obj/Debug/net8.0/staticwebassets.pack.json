@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LinkDev.1stProj.PL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LinkDev.1stProj.PL.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\Files\\Images\\0781efda-f98c-49b6-adb0-a91084cabcbc.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\0781efda-f98c-49b6-adb0-a91084cabcbc.jpeg"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\Files\\Images\\08f23779-26fe-45d9-8ae5-896b183e06c6.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\08f23779-26fe-45d9-8ae5-896b183e06c6.jpg"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\Files\\Images\\0d2c2daa-718e-452b-a038-47f11fa0dbaf.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\0d2c2daa-718e-452b-a038-47f11fa0dbaf.jpg"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\Files\\Images\\44196c8b-168e-4efe-9f77-6ed05aa6ce48.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\44196c8b-168e-4efe-9f77-6ed05aa6ce48.jpg"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\Files\\Images\\8d093e0b-2c07-452d-8cdc-f0e8eb1c5b87.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\8d093e0b-2c07-452d-8cdc-f0e8eb1c5b87.jpg"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\Files\\Images\\969db90f-e101-4218-9e32-8db4d476c4ef.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\969db90f-e101-4218-9e32-8db4d476c4ef.jpg"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\Files\\Images\\c85531c2-ada8-40e2-829f-3700ca8d506e.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\c85531c2-ada8-40e2-829f-3700ca8d506e.jpg"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\Files\\Images\\f9f891b0-2100-4ffe-bfbc-63fbf5bb21bf.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\f9f891b0-2100-4ffe-bfbc-63fbf5bb21bf.jpg"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\Files\\Images\\fd76c6bb-b569-4e9f-844e-a416262b251a.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\fd76c6bb-b569-4e9f-844e-a416262b251a.jpeg"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\css\\_Auth.css",
+      "PackagePath": "staticwebassets\\css\\_Auth.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\67uio9;'\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\67uio9;'\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\67uio9;'\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\67uio9;'\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\67uio9;'\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\67uio9;'\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\67uio9;'\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\67uio9;'\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\67uio9;'\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\67uio9;'\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\67uio9;'\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\67uio9;'\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.net\\.net\\Ahmed Nassr\\MVC\\Project\\LinkDev.1stProj.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LinkDev.1stProj.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LinkDev.1stProj.PL.props",
+      "PackagePath": "build\\LinkDev.1stProj.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LinkDev.1stProj.PL.props",
+      "PackagePath": "buildMultiTargeting\\LinkDev.1stProj.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LinkDev.1stProj.PL.props",
+      "PackagePath": "buildTransitive\\LinkDev.1stProj.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
